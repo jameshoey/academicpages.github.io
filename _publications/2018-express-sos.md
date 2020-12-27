@@ -12,4 +12,4 @@ citation: 'J. Hoey, I. Ulidowski, and S. Yuen. Reversing parallel programs with 
 
 **Abstract:** We show how to reverse a while language extended with blocks, local variables, procedures and the interleaving parallel composition. Annotation is defined along with a set of operational semantics capable of storing necessary reversal information, and identifiers are introduced to capture the interleaving order of an execution. Inversion is defined with a set of operational semantics that use saved information to undo an execution. We prove that annotation does not alter the behaviour of the original program, and that inversion correctly restores the initial program state.
 
-[Back to Publications](https://jimmygithub1.github.io/publications/)
+[Back to Publications](https://jameshoey.github.io/publications/)
